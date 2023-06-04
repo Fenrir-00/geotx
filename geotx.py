@@ -24,7 +24,7 @@ class color:
     rojo = '\033[91m'
     fin = '\033[0m'
 
-r= requests.get("https://raw.githubusercontent.com/Fenrir-00/phising/main/version.txt")
+r= requests.get("https://raw.githubusercontent.com/Fenrir-00/geotx/master/version.txt")
 r=r.text
 print(r)
 if r != "version=1.0\n":
