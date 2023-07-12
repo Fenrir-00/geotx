@@ -1,3 +1,4 @@
+![Screenshot](datos/geotx.gif)
 ![Screenshot](datos/geotx.png)
 
 ![Screenshot](datos/geotx1.png)
